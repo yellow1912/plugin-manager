@@ -1,0 +1,8 @@
+installed:
+  RIPluginManager: { version: '2.0', status: true }
+  RICJLoader: { version: '2.0', status: true }
+  RITags: { version: '1.1', patches: {  }, pages: [tag, tags_manager] }
+pages: [  ]
+update:
+  source: none
+  latest: 0

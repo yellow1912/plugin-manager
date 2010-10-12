@@ -1,0 +1,1 @@
+Found and attempted to install <?php echo $counter; ?> new modules. 
